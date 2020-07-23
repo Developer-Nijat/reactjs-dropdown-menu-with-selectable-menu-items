@@ -1,1 +1,2 @@
-# reactjs-dropdown-menu-with-selectable-menu-items
+# reactjs
+Dropdown menu with selectable (checkbox) menu items
